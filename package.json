@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "mariadb": "^3.1.0"
+  }
+}
